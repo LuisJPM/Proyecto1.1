@@ -1,0 +1,25 @@
+
+body{
+    background-color: rgb(14, 14, 95);
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    background-color: rgba(27, 30, 184, 0.541);
+}
+
+a { 
+    display: block; 
+    text-align: center; 
+    color: white;  
+    background-color: #1e45af60; 
+}
+
+img{
+    background-color: white;
+    margin: 20px auto;   
+    border: 5px solid #1547a5e3; 
+    border-radius: 10px; 
+} 
